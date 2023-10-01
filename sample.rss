@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title>Заtголовок вашего канала новостей - обязательно</title>
+ <link>http://www.your_companjy.ru</link>
+ <description>Описание вашего канала новостей - необязательно</description>
+ <lastBuildDate>Sun, 1 Oct 2023 15:02:00 GMT</lastBuildDate>
+ <item>
+   <title>Заголовок новости 2</title>
+   <link>http://eenews.ru/?id=2</link>
+   <description><![CDATA[ ...секции cdata ограниченные такими тегами, могут содержать любой текст, включая html-теги. При этом они
+				по умолчанию отбрасываются агрегаторами. У нас разрешается один тег
+				вида <img src="http://www.gstatic.com/webp/gallery/1.webp" />  или .png или .jpg  -картинка, для которой мы
+				храним иконку нужного размера. ]]></description>
+   <pubDate>Sun, 1 Oct 2023 15:02:00 GMT</pubDate>
+ </item>
+</channel>
+</rss>
